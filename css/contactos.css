@@ -1,0 +1,18 @@
+.texto{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+.mensaje{
+    width: 250px;
+
+}
+.btn{
+    width: 150px;
+    height: 30px;
+}
+.btn:hover{
+    background: blue;
+    cursor: pointer;
+    color: white;
+}
